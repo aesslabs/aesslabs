@@ -1,4 +1,4 @@
-<h1 align="center">Hi visitor, WelCome to AESS LAB!</h1>
+<h1 align="center">Hi visitor, Welcome to AESS LAB!</h1>
 <p align="center">
 
 <br>
